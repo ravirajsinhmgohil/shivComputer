@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "title": "C / C++ Programming",
+        "img": "img/C.png",
+        "detail" : "An undergraduate program in computer science and applications. It provides knowledge in programming, software development, database management, and networking, equipping students for careers in IT and software development."
+    },
+    {
+        "id": 2,
+        "title": "CCC",
+        "img": "img/Ccc.png",
+        "detail" : "An undergraduate degree focused on business management and administration. It covers subjects like marketing, finance, human resources, and strategic management, preparing students for managerial roles and entrepreneurial ventures."
+    },
+    {
+        "id": 3,
+        "title": "JAVA",
+        "img": "img/java.png",
+        "detail" : "An undergraduate degree in commerce, emphasizing accounting, finance, economics, and business law. It prepares students for careers in finance, accounting, and business management."
+    },
+    {
+        "id": 4,
+        "title": "Tally",
+        "img": "img/Tally.png",
+        "detail" : "An undergraduate degree in commerce, emphasizing accounting, finance, economics, and business law. It prepares students for careers in finance, accounting, and business management."
+    },
+    {
+        "id": 5,
+        "title": "Web Development",
+        "img": "img/web-D.png",
+        "detail" : "An undergraduate degree in commerce, emphasizing accounting, finance, economics, and business law. It prepares students for careers in finance, accounting, and business management."
+    },
+    {
+        "id": 6,
+        "title": "Web Design",
+        "img": "img/web-designing.png",
+        "detail" : "An undergraduate degree in commerce, emphasizing accounting, finance, economics, and business law. It prepares students for careers in finance, accounting, and business management."
+    }
+]

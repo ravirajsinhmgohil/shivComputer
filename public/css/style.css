@@ -1,0 +1,90 @@
+:root {
+    --secondary-color: #EEE972;
+    --main-color: #2F2764;
+}
+
+.card {
+    position: relative;
+    overflow: hidden;
+    /* Ensures the description stays within the card boundaries */
+}
+
+.logo {
+    height: 70px;
+   
+
+}
+.card-img-top{
+
+    height: 350px !important;
+    object-fit: fill;
+}
+
+.info {
+    top: 100;
+
+    color: white;
+    background: var(--main-color);
+    height: 62px;
+    transition: all .5s;
+    box-shadow: 0 0 50px -20px var(--main-color);
+    position: relative;
+    z-index: 1;
+
+}
+
+.description {
+    position: absolute;
+    top: 62px;
+    left: 0;
+    right: 0;
+    background: var(--main-color);
+    color: white;
+    height: 0;
+    overflow: hidden;
+    transition: height .5s, padding .5s;
+    padding: 0 1rem;
+    box-shadow: 0 0 50px -20px var(--main-color);
+    z-index: 0;
+
+}
+
+.card:hover .description {
+    height: 200px;
+    padding: 1rem;
+    display: block;
+
+}
+
+.footer {
+    background-color: #191F23;
+}
+
+.hr {
+    width: 50px;
+    height: 5px;
+    background-color: var(--main-color);
+}
+
+.bg-primary {
+    background-color: var(--main-color) !important;
+}
+
+.btn-primary {
+    width: 250px;
+    border-radius: 25px;
+    height: 50px;
+    background-color: var(--main-color) !important;
+    color: white;
+    border: 1px solid var(--main-color) !important;
+}
+
+input[type="text"] {
+    border-radius: 5px;
+    height: 50px;
+    background-color: #ECF0F8;
+}
+.textarea{
+    border-radius: 5px;
+    background-color: #ECF0F8;
+}

@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "title": "Understanding BBA: Your Gateway to the Business World",
+        "detail" : "The Bachelor of Business Administration (BBA) is an undergraduate program designed to impart essential business skills and knowledge. It covers areas such as marketing, finance, human resource management, and strategic planning. Graduates are prepared for managerial roles or entrepreneurial ventures, with a solid foundation in business principles and practices.",
+        "time" : "15 Aug 2024 ",
+        "author" : "John Doe",
+        "img": "https://boyo.l8t.top/wp-content/uploads/2023/11/educational_blogs.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Exploring BCA: The Path to IT Excellence",
+        "detail" : "The Bachelor of Computer Applications (BCA) is an undergraduate course that focuses on computer science and its applications. Students gain hands-on experience in programming, software development, and network management. The program is ideal for those looking to start a career in IT, with a curriculum that prepares them for various technical roles and certifications.",
+        "time" : "15 Aug 2024 ",
+        "author" : "Jane Doe",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsXlatrIZ42GEiVKgM0K3OaBX0aQ-hwLPr9A&s"
+    },
+    {
+        "id": 3,
+        "title": "B.COM: A Comprehensive Guide to Commerce Education",
+        "detail" : "The Bachelor of Commerce (B.COM) provides an in-depth understanding of commerce, including accounting, finance, economics, and business law. This degree equips students with the skills needed for careers in finance, accounting, and business management, offering a broad perspective on commercial practices and financial management.",
+        "time" : "15 Aug 2024 ",
+        "author" : "Jane Doe",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPKvqlxZ1WyqP__bxhOL_DxT4TpGGbV9J9tQ&s"
+    },
+    {
+        "id": 4,
+        "title": "Dive into BBA: Shaping Future Business Leaders",
+        "detail" : "The Bachelor of Business Administration (BBA) is a dynamic undergraduate program aimed at developing leadership and managerial skills. It includes coursework in finance, marketing, operations, and human resources, combined with practical experience through internships. BBA graduates are well-prepared for diverse career paths in business management and entrepreneurship.",
+        "time" :"15 Aug 2024 ",
+        "author" : "Jane Doe",
+        "img": "https://blog.scientix.eu/files/2015/06/ideyweb_jpeg.jpg"
+    },
+    {
+        "id": 5,
+        "title": "BCA Unveiled: Your Gateway to IT Careers",
+        "detail" : "The Bachelor of Computer Applications (BCA) is an essential degree for those interested in technology and computer science. It covers programming languages, software development, data structures, and algorithms. The program also includes practical labs and projects, offering students hands-on experience that is crucial for IT career success.",
+        "time" :"1 min ago",
+        "author" : "coding_enthusiast",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyo_HKB6dDayLu9sZhIxr3Uq_wptRr44Yn_A&s"
+    },
+    {
+        "id": 6,
+        "title": "The Essentials of B.COM: Unlocking Commerce Opportunities",
+        "detail" : "The Bachelor of Commerce (B.COM) degree provides a thorough understanding of commercial and financial principles. It includes key subjects such as accounting, business law, and economics. This program is designed to build a strong foundation for careers in finance, banking, and corporate management, preparing students for a wide range of professional roles.",
+        "time" :"15 Aug 2024 ",
+        "author" : "commerce_guide",
+        "img": "https://media.licdn.com/dms/image/D4D12AQEYtfVRssTEPg/article-cover_image-shrink_720_1280/0/1653658036070?e=2147483647&v=beta&t=R8WZgD7z_MPggCAJPsjkNp9qTuJ7QKD5jWUoV7El5x4"
+    }
+]
