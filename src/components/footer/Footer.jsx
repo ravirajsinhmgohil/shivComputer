@@ -2,6 +2,8 @@ import React from 'react'
 import { Link } from 'react-router-dom'
 
 const Footer = () => {
+    // get current year
+    const currentYear = new Date().getFullYear();
     return (
         <>
             <section className="footer py-5">
@@ -12,10 +14,7 @@ const Footer = () => {
                                 <h5 className="text-uppercase">Contact Us</h5>
                                 <div className="hr mb-4"></div>
                                 <p className="text-white">
-                                    Shiv computers <br />
-                                    2<sup>nd</sup> floor , Ajay arcade ,<br /> Jawahar chock ,<br /> Opp Upkar sareer
-                                    show room ,<br />Surendranagar 363001<br />
-                                    Gujarat
+                                    210, Shiv computer,<br /> Ajay Arcade,<br /> Javahar Road, <br />  Surendranagar, Gujarat 363001
                                 </p>
                             </div>
                             <div className="col-md-4">
@@ -27,7 +26,7 @@ const Footer = () => {
                                     </li>
                                     <div className="border"></div>
                                     <li className="pb-2">
-                                        <Link tp="about" className="text-white text-decoration-none">About us</Link>
+                                        <Link to="/about" className="text-white text-decoration-none">About us</Link>
                                     </li>
                                     <div className="border"></div>
                                     <li className="pb-2">
@@ -39,7 +38,7 @@ const Footer = () => {
                                     </li>
                                     <div className="border"></div>
                                     <li className="pb-2">
-                                        <a href="#!" className="text-white text-decoration-none">Contact us</a>
+                                        <Link to="/contact" className="text-white text-decoration-none">Contact us</Link>
                                     </li>
                                     <div className="border"></div>
                                 </ul>
@@ -50,15 +49,18 @@ const Footer = () => {
                                 <div className="hr mb-4"></div>
                                 <ul className="list-unstyled mb-0 nav-item">
                                     <li className="pb-2">
-                                        <a href="#!" className="text-white   text-decoration-none  "><i className="bi bi-facebook"></i>  &nbsp; shivcomputers</a>
+                                        <a href="https://www.facebook.com/shivcomputers.snr/" target='_blank' className="text-white   text-decoration-none  "><i className="bi bi-facebook"></i>  &nbsp; shivcomputers</a>
                                     </li>
                                     <li className="pb-2">
-                                        <a href="#" className="text-white   text-decoration-none  "> <i className="bi bi-whatsapp"></i>  &nbsp;  9426975796
+                                        <a href="https://www.instagram.com/shiv_computers/" target='_blank' className="text-white   text-decoration-none  "><i className="bi bi-instagram"></i>  &nbsp; shivcomputers</a>
+                                    </li>
+                                    <li className="pb-2">
+                                        <a href="https://wa.link/g5gxyx" target='_blank' className="text-white   text-decoration-none  "> <i className="bi bi-whatsapp"></i>  &nbsp;  9426975796
 
                                         </a>
                                     </li>
                                     <li className="pb-2">
-                                        <a href="#!" className="text-white   text-decoration-none  "><i className="bi bi-envelope"></i>  &nbsp;  shivcomputers@gmail.com</a>
+                                        <a href="mailto:shivcomputer.snr@gmail.com" className="text-white   text-decoration-none  "><i className="bi bi-envelope"></i>  &nbsp;  shivcomputer.snr@gmail.com</a>
                                     </li>
                                 </ul>
 
@@ -68,7 +70,7 @@ const Footer = () => {
                     <div className="text-center p-3" style={{ backgroundColor: "rgba(0, 0, 0, 0.05)" }}>
                         <div className="d-flex justify-content-between">
                             <div>
-                            © 2024 Copyright:
+                                © {currentYear} Copyright:
 
                                 <a className=" text-white text-decoration-none" href="#">Shiv Computers </a>
                             </div>

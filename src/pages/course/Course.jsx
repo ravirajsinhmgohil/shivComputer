@@ -1,29 +1,34 @@
-import React from 'react'
-import courses from '../../json/Course.json'
-import Breadcrumb from '../../components/breadcrumb/Breadcrumb'
-import { Helmet } from 'react-helmet'
+import React from 'react';
+import courses from '../../json/Course.json';
+import Breadcrumb from '../../components/breadcrumb/Breadcrumb';
+import { Helmet } from 'react-helmet';
+
 const Course = () => {
-    const data = courses
+    const data = courses;
+
     return (
         <>
             <Helmet>
                 <title>Courses || Shiv computers</title>
             </Helmet>
             <Breadcrumb title="Courses" />
-            <div className="container ">
-                <div className="row ">
+            <div className="container">
+                <div className="row">
                     {data.map((item) => (
-
                         <div className="col-md-4 py-4" key={item.id}>
                             <div className="card">
                                 <div className="info">
-                                    <h2 className="text-center">{item.title}</h2>
+                                    <h2 className="text-center my-2">{item.title}</h2>
                                 </div>
-                                <img src={item.img} alt={item.title}
-                                    loading='lazy'
-                                    className="card-img-top" />
+                                <img
+                                    src={item.img}
+                                    alt={item.title}
+                                    loading="lazy"
+                                    style={{ height: "400px", objectFit: "cover" }}
+                                />
                                 <div className="description">
-                                    <p>{item.detail}</p>
+                                    {/* Use dangerouslySetInnerHTML to render HTML */}
+                                    <p dangerouslySetInnerHTML={{ __html: item.detail }} />
                                 </div>
                             </div>
                         </div>
@@ -31,7 +36,7 @@ const Course = () => {
                 </div>
             </div>
         </>
-    )
-}
+    );
+};
 
-export default Course
+export default Course;

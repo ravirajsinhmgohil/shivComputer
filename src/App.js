@@ -3,17 +3,19 @@ import Gallery from "./pages/gallery/Gallery";
 import Navbar from "./components/navbar/Navbar";
 import Footer from "./components/footer/Footer";
 import Blog from "./pages/blog/Blog";
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import Course from "./pages/course/Course";
 import Home from "./pages/home/Home";
 import BlogDetail from "./pages/blog/BlogDetail";
 import Contact from "./pages/contact/Contact";
 import About from "./pages/about/About";
+import { ToastContainer } from "react-toastify";
 
 const App = () => {
   return (
     <>
       <Router>
+        <ToastContainer />
         <Navbar />
         <Routes>
           <Route path="/" element={<Home />} />

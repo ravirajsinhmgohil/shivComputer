@@ -1,50 +1,50 @@
 [
-    {
-        "id": 1,
-        "title": "Understanding BBA: Your Gateway to the Business World",
-        "detail" : "The Bachelor of Business Administration (BBA) is an undergraduate program designed to impart essential business skills and knowledge. It covers areas such as marketing, finance, human resource management, and strategic planning. Graduates are prepared for managerial roles or entrepreneurial ventures, with a solid foundation in business principles and practices.",
-        "time" : "15 Aug 2024 ",
-        "author" : "John Doe",
-        "img": "https://boyo.l8t.top/wp-content/uploads/2023/11/educational_blogs.jpg"
-    },
-    {
-        "id": 2,
-        "title": "Exploring BCA: The Path to IT Excellence",
-        "detail" : "The Bachelor of Computer Applications (BCA) is an undergraduate course that focuses on computer science and its applications. Students gain hands-on experience in programming, software development, and network management. The program is ideal for those looking to start a career in IT, with a curriculum that prepares them for various technical roles and certifications.",
-        "time" : "15 Aug 2024 ",
-        "author" : "Jane Doe",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsXlatrIZ42GEiVKgM0K3OaBX0aQ-hwLPr9A&s"
-    },
-    {
-        "id": 3,
-        "title": "B.COM: A Comprehensive Guide to Commerce Education",
-        "detail" : "The Bachelor of Commerce (B.COM) provides an in-depth understanding of commerce, including accounting, finance, economics, and business law. This degree equips students with the skills needed for careers in finance, accounting, and business management, offering a broad perspective on commercial practices and financial management.",
-        "time" : "15 Aug 2024 ",
-        "author" : "Jane Doe",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPKvqlxZ1WyqP__bxhOL_DxT4TpGGbV9J9tQ&s"
-    },
-    {
-        "id": 4,
-        "title": "Dive into BBA: Shaping Future Business Leaders",
-        "detail" : "The Bachelor of Business Administration (BBA) is a dynamic undergraduate program aimed at developing leadership and managerial skills. It includes coursework in finance, marketing, operations, and human resources, combined with practical experience through internships. BBA graduates are well-prepared for diverse career paths in business management and entrepreneurship.",
-        "time" :"15 Aug 2024 ",
-        "author" : "Jane Doe",
-        "img": "https://blog.scientix.eu/files/2015/06/ideyweb_jpeg.jpg"
-    },
-    {
-        "id": 5,
-        "title": "BCA Unveiled: Your Gateway to IT Careers",
-        "detail" : "The Bachelor of Computer Applications (BCA) is an essential degree for those interested in technology and computer science. It covers programming languages, software development, data structures, and algorithms. The program also includes practical labs and projects, offering students hands-on experience that is crucial for IT career success.",
-        "time" :"1 min ago",
-        "author" : "coding_enthusiast",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyo_HKB6dDayLu9sZhIxr3Uq_wptRr44Yn_A&s"
-    },
-    {
-        "id": 6,
-        "title": "The Essentials of B.COM: Unlocking Commerce Opportunities",
-        "detail" : "The Bachelor of Commerce (B.COM) degree provides a thorough understanding of commercial and financial principles. It includes key subjects such as accounting, business law, and economics. This program is designed to build a strong foundation for careers in finance, banking, and corporate management, preparing students for a wide range of professional roles.",
-        "time" :"15 Aug 2024 ",
-        "author" : "commerce_guide",
-        "img": "https://media.licdn.com/dms/image/D4D12AQEYtfVRssTEPg/article-cover_image-shrink_720_1280/0/1653658036070?e=2147483647&v=beta&t=R8WZgD7z_MPggCAJPsjkNp9qTuJ7QKD5jWUoV7El5x4"
-    }
+  {
+    "id": 1,
+    "title": "Student life",
+    "detail": "Student life is an exciting and important time full of learning, growth, and new experiences. It’s a mix of studying, making friends, and exploring different activities. Students attend classes, work on assignments, and prepare for exams, which helps them gain knowledge and skills for their future careers. At the same time, Student life is about having fun, joining clubs, and participating in events. Sometimes living away from home teaches responsibility and time management, while meeting new people helps students learn about different cultures and ideas. Student life is a balance of hard work and enjoyment, shaping students into confident and independent individuals.",
+    "time": "15 Aug 2024 ",
+    "author": "Priti Shukla",
+    "img": "/blog/student-life.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Why MS Office is Important to learn?",
+    "detail": "Microsoft Office (MS Office) is a very useful set of tools that helps people work, study, and communicate better. It includes programs like Word for writing, Excel for working with numbers and data, PowerPoint for creating presentations, and Outlook for managing emails and calendars. These tools make it easier to create, organize, and share work. MS Office is used all over the world because its files can be opened and used on different devices, making teamwork simple. It also helps people save time with templates and features like real-time editing. Many jobs require MS Office skills, so learning it can help in your career. With its cloud features and updates, MS Office is a reliable and easy-to-use tool for everyone.",
+    "time": "10 SEP 2024 ",
+    "author": "Priti Shukla",
+    "img": "/blog/ms-Office.jpg"
+  },
+  {
+    "id": 3,
+    "title": "What is Web-Development?",
+    "detail": "Web development is the process of creating and maintaining websites or web applications. For beginners, it involves learning the basics of coding, design, and functionality needed to build and manage websites. Web development has two main parts: Frontend Development: What users see and interact with on a website (e.g., layout, design, buttons, animations). Backend Development: The server-side logic that powers the website (e.g., databases, user authentication).",
+    "time": "1 Oct 2024 ",
+    "author": "Priti Shukla",
+    "img": "/blog/Web-D-1.jpg"
+  },
+  {
+    "id": 4,
+    "title": "How to Start Web Development?",
+    "detail": "Set Up Your Environment:  Install a code editor like Visual Studio Code.Use a browser like Chrome or Firefox with developer tools. Learn the Basics: Start with HTML to create simple web pages. Learn CSS to style your pages. Add functionality with JavaScript. Practice: Create small projects like a personal portfolio, a simple blog, or a to-do app. Follow tutorials and replicate designs to improve your skills. Use CSS frameworks like Bootstrap to create mobile-friendly designs. Explore Backend.",
+    "time": "5 Oct 2024 ",
+    "author": "Priti Shukla",
+    "img": "/blog/Web-DEV-2.jpg"
+  },
+  {
+    "id": 5,
+    "title": "UI/UX designer now a days…",
+    "detail": "UI/UX designers are important because they make products easy to use, attractive, and enjoyable. UX designers focus on how the product works to meet users' needs, while UI designers make it look good and match the brand. Their work helps people have a better experience, keeps customers happy, and makes businesses more successful. Good design saves time and money by solving problems early and makes products accessible to everyone. As technology grows, UI/UX designers help create simple and engaging digital experiences that people love to use.",
+    "time": "4 Nov 2024 ",
+    "author": "Priti Shukla",
+    "img": "/blog/uxui-design.jpg"
+  },
+  {
+    "id": 6,
+    "title": "About PHP Frameworks",
+    "detail": "PHP frameworks are tools that make web development faster and easier by providing a structure for building websites and applications. They offer pre-written code, libraries, and templates that handle common tasks like database management, user authentication, and routing, so developers don’t have to start from scratch. Popular PHP frameworks like Laravel, Symfony, and CodeIgniter help create secure, scalable, and efficient websites. These frameworks improve productivity by offering organized and reusable code, reducing development time, and ensuring the project follows best practices. Using PHP frameworks also makes it easier to maintain and update applications over time.",
+    "time": "15 Nov 2024 ",
+    "author": "Priti Shukla",
+    "img": "/blog/PHP Frameworks.webp"
+  }
 ]

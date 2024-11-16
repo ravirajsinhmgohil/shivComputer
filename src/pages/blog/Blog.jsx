@@ -28,21 +28,24 @@ const Blog = () => {
                 <div className="row">
                     {data.map((item) => (
                         <div className="col-md-4 py-4" key={item.id}>
-                            <div className="card" style={{ height: '100%' }}>
+                            <div className="card" style={{ minHeight: '100%' }}>
                                 <img
 
                                     src={item.img}
                                     className="card-img-top img-fluid"
                                     alt={item.title}
                                     loading='lazy'
+                                    minHeight="200px"
                                 />
                                 <div className="card-body">
-                                    <h2 className="card-title">{item.title}</h2>
+                                    <h2 className="card-title ">{item.title}</h2>
                                     <div className="d-flex justify-content-between">
                                         <p><i className="bi bi-clock"></i> <span className="text-muted"> {item.time}</span></p>
-                                        <p><i className="bi bi-people"></i> <span className="text-muted"> {item.author}</span></p>
+                                        {/* <p><i className="bi bi-people"></i> <span className="text-muted"> {item.author}</span></p> */}
                                     </div>
                                     <p className="card-text">{truncateText(item.detail, 25)}</p>
+                                </div>
+                                <div class="py-2">
                                     <Link to={`/blogDetail/${item.id}`} className="btn btn-primary">Read More</Link>
                                 </div>
                             </div>

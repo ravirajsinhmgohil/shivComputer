@@ -1,38 +1,75 @@
 [
-    {
-        "id": 1,
-        "title": "C / C++ Programming",
-        "img": "img/C.png",
-        "detail" : "An undergraduate program in computer science and applications. It provides knowledge in programming, software development, database management, and networking, equipping students for careers in IT and software development."
-    },
-    {
-        "id": 2,
-        "title": "CCC",
-        "img": "img/Ccc.png",
-        "detail" : "An undergraduate degree focused on business management and administration. It covers subjects like marketing, finance, human resources, and strategic management, preparing students for managerial roles and entrepreneurial ventures."
-    },
-    {
-        "id": 3,
-        "title": "JAVA",
-        "img": "img/java.png",
-        "detail" : "An undergraduate degree in commerce, emphasizing accounting, finance, economics, and business law. It prepares students for careers in finance, accounting, and business management."
-    },
-    {
-        "id": 4,
-        "title": "Tally",
-        "img": "img/Tally.png",
-        "detail" : "An undergraduate degree in commerce, emphasizing accounting, finance, economics, and business law. It prepares students for careers in finance, accounting, and business management."
-    },
-    {
-        "id": 5,
-        "title": "Web Development",
-        "img": "img/web-D.png",
-        "detail" : "An undergraduate degree in commerce, emphasizing accounting, finance, economics, and business law. It prepares students for careers in finance, accounting, and business management."
-    },
-    {
-        "id": 6,
-        "title": "Web Design",
-        "img": "img/web-designing.png",
-        "detail" : "An undergraduate degree in commerce, emphasizing accounting, finance, economics, and business law. It prepares students for careers in finance, accounting, and business management."
-    }
+  {
+    "id": 1,
+    "title": "C / C++ Programming",
+    "img": "img/C.png",
+    "detail": "<h3>Duration 2</h3><h6>Daily 1 hour</h6><b>Syullabus</b><ul>    <li>Fundamentals in C</li>    <li>Input/ Output</li>    <li>Pointers</li>    <li>Array</li>    <li>Operators</li>    <li>Functions</li>    <li>Conditions</li>    <li>Control flow Programs</li></ul>"
+  },
+
+  {
+    "id": 2,
+    "title": "CCC",
+    "img": "img/ccc.png",
+    "detail": "<h3>Duration – 3 Months</h3><h6>Daily – 1 hour</h6><b>Syllabus :</b><ul>    <li>Typing – Eng+Guj</li>    <li>Windows</li>    <li>Paint</li>    <li>MS-Word</li>    <li>MS-Excel</li>    <li>MS-PowerPoint</li>    <li>Internet Basic</li></ul>"
+  },
+  {
+    "id": 3,
+    "title": "JAVA",
+    "img": "img/JAVA.png",
+    "detail": "<h3>Duration- 4 Months</h3><h6>Daily - 2 Hour</h6><b>Syllabus :</b><ul>    <li>Core JAVA</li>    <li>Database using JDBC</li>    <li>Advance Java</li>    <li>Session & MVC</li>    <li>Spring Framework</li>    <li>Hibernate Framework</li>   <li>Applicability of Industrial Project</li></ul>"
+  },
+  {
+    "id": 4,
+    "title": "Tally",
+    "img": "img/Tally.png",
+    "detail": "<h3>Duration- 3 Months</h3><h6>Daily - 1 Hour</h6><b>Syllabus :</b><ul><li>Company Info Menu</li><li>Accounts & Ledgers</li><li>F-11,F-12 Features</li><li>Voucher Entry</li><li>Advance Features</li><li>TDS</li><li>Payroll</li><li>Reports</li><li>GST</li></ul>"
+  },
+  {
+    "id": 5,
+    "title": "Web Development",
+    "img": "img/WEB-D.png",
+    "detail": "<h3>Duration- 4 Months</h3><h6>Daily - 2 Hour</h6><b>Syllabus :</b><ul><li>Concept of Programming</li><li>Build Website with HTML, CSS</li><li>Jquery</li><li>Javascript</li><li>BootStrap</li><li>Sass, Less, SCSS</li><li>Frameworks</li><li>Responsive Sites</li><li>WordPress</li><li>Customization and Woo Commerce Plugin</li></ul>"
+  },
+  {
+    "id": 6,
+    "title": "Web Design",
+    "img": "img/Web-Designing.png",
+    "detail": "<h3>Duration- 4 Months</h3><h6>Daily - 2 Hour</h6><b>Syllabus :</b><ul><li>Introduction</li><li>Logo/ Identity Design</li><li>Brochure, Banner, Flyer Design</li><li>Packaging Design</li><li>Hoarding Board Design</li><li>Invitation Card Design</li><li>Business Stationery Design</li><li>Photoshop</li><li>Image Editing</li><li>Creating Movie Poster</li><li>Mobile & Website Template</li>"
+  },
+  {
+    "id": 7,
+    "title": "Python",
+    "img": "img/python.jpg",
+    "detail": "<h3>Duration 4</h3><h6>Daily 2 hour</h6><b>Syllabus</b><ul>    <li>Core Python Concept </li>    <li>Collections </li>    <li>Functions </li>    <li>Modules </li>    <li>Input-Output </li>    <li>Exception Handling </li>    <li>OOPS Concept </li>    <li>Regular Expression </li>    <li>GUI Programming </li>    <li>Database </li>    <li>Django framework</li></ul>"
+  },
+  {
+    "id": 8,
+    "title": "React JS",
+    "img": "img/reactJS.jpg",
+    "detail": "<ul><li>Introduction</li><li>Starting with React JS</li><li>Development with UI</li><li>Components-List and Hooks</li><li>JSON-server firebase Connectivity</li><li>Middleware-Thunk- Saga</li><li>Tailwind- State Management</li><li>Redux</li><ul>"
+  },
+  {
+    "id": 9,
+    "title": "UI/UX",
+    "img": "img/ui.jpg",
+    "detail": "<h3>    Duration - 4 Months</h3><h6>    Daily - 2 Hours</h6><b>    Syllabus :</b><ul>    <li>Use of Adobe XD & Figma</li>    <li>Creating User Interface</li>    <li>UI Kits</li>    <li>Prototype all Pages</li>    <li>Working with Projects & Files</li>    <li>Creating Mobile App & Website</li>    <li>Creating Vector Networks</li>    <li>Sharing Work, Getting Feedback</li>    <li>Using Xd & Figma as a Developer</li></ul>"
+  },
+  {
+    "id": 10,
+    "title": "PHP Laravel",
+    "img": "img/laravel.jpg",
+    "detail": "<h3>Duration- 4 Months</h3><h6>Daily - 2 Hour</h6><b>Syllabus :</b><ul><li>HTML & HTML 5</li><li>CSS & CSS 3</li><li>SQL</li><li>Core PHP</li><li>Advance PHP</li><li>Phpmyadmin Database Connectivity</li><li>Framework</li></ul>"
+  },
+  {
+    "id": 11,
+    "title": "Digital Marketing",
+    "img": "img/digitalM.jpg",
+    "detail": "<h3>Duration 3 months</h3><h6>Daily 2 hour</h6><b>Syllabus:</b><ul>    <li>Introduction</li>    <li>Website Marketing</li>    <li>Search Engine Optimization</li>    <li>Google Ads & Google My Business</li>    <li>Campaign & Ad Group Management</li>    <li>Social Media Marketing</li>    <li>Video Marketing</li>    <li>Google Search Console</li></ul>"
+  },
+  {
+    "id": 12,
+    "title": "Internship Course",
+    "img": "img/intern.jpg",
+    "detail": "<h3>Durations 5 months</h3><h6>Daily 2 hours</h6><b>Syllabus:</b><ul>    <li>Project Training</li>    <li>Project Development</li>    <li>NOC / External Assessment</li>    <li>Company Certification</li>    <li>Mid-Term/ Last-Sem Internship</li>    <li>Available for :        <ul>            <li>Diploma DCE </li>            <li>BCA</li>            <li>MCA</li>            <li>BE-IT</li>            <li>CE</li>        </ul>    </li></ul>"
+  }
 ]
